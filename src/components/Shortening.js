@@ -23,7 +23,7 @@ const Shortening = () => {
           className="flex items-center justify-between shadow-md p-4 rounded-lg"
         >
           <div className="flex items-center justify-between w-full pr-4 font-semibold">
-            <div className="text-gray-600">{link.oiginal_link}</div>
+            <div className="text-gray-600">{link.original_link}</div>
             <div className="text-cyan-600">{link.short_link}</div>
           </div>
           <button
